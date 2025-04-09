@@ -1,2 +1,2 @@
-# terraform-provider-raptorbase
-A custom extension for Firebase resources.
+# terraform-provider-firebase
+Extending the functionality of the Google Terraform provider for Firebase.
